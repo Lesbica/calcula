@@ -1,0 +1,6 @@
+﻿  calcula.cpp
+C:\Users\Chara\source\repos\calcula\calcula\calcula.cpp(21,31): error C2556: void znak(char *,int): перегруженная функция отличается от "double znak(char *,int)" только возвращаемым типом
+C:\Users\Chara\source\repos\calcula\calcula\calcula.cpp(5): message : см. объявление "znak"
+C:\Users\Chara\source\repos\calcula\calcula\calcula.cpp(21,6): error C2371: znak: переопределение; различные базовые типы
+C:\Users\Chara\source\repos\calcula\calcula\calcula.cpp(5): message : см. объявление "znak"
+C:\Users\Chara\source\repos\calcula\calcula\calcula.cpp(53,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
